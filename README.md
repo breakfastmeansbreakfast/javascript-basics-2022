@@ -1,4 +1,4 @@
-# JavaScript Basics
+# JavaScript Basics (2022)
 
 The repository contains test cases and empty function definitions which need to be populated to solve the different challenges set in this weeks walkthrough. 🚨*You should not update the tests* 🚨
 
